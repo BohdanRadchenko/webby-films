@@ -4,10 +4,12 @@
 2. Open project directory
 	`cd webby-films/`
 3. Install package for server
-	`npm run install:server`
+	`npm install`
 4. Install package for client
-	`npm run install:client`
+	`cd client/`
+	`npm install`
 5. Run project
+	`cd ../`
 	`npm run dev`
 	#### DEFAULT PORT
 	* SERVER : 5000
