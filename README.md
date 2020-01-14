@@ -5,10 +5,7 @@
 4. `npm run dev`    
 
 	DEFAULT PORT:
-	{
 		SERVER : 5000
-		CLIENT : 3000
-	}
-		
+		CLIENT : 3000		
 		
 5. Open http://localhost:3000 
