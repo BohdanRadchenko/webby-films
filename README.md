@@ -1,11 +1,17 @@
 ### Launch of the project
-1. Clone this repo https://github.com/BohdanRadchenko/webby-films.git 
-2. `cd webby-films/`
-3. `npm install`
-4. `npm run dev`    
-
+1. Clone this repo 
+	`git clone https://github.com/BohdanRadchenko/webby-films.git` 
+2. Open project directory
+	`cd webby-films/`
+3. Install package for server
+	`npm run install:server`
+4. Install package for client
+	`npm run install:client`
+5. Run project
+	`npm run dev`
+	
 	DEFAULT PORT
 	SERVER : 5000
 	CLIENT : 3000		
 		
-5. Open http://localhost:3000 
+5. Open http://localhost:3000 in your Browser
