@@ -9,8 +9,8 @@
 	`npm run install:client`
 5. Run project
 	`npm run dev`
-	*DEFAULT PORT
-	*SERVER : 5000
-	*CLIENT : 3000		
+	#### DEFAULT PORT
+	* SERVER : 5000
+	* CLIENT : 3000		
 		
 5. Open http://localhost:3000 in your Browser
